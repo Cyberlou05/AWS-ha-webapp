@@ -1,6 +1,6 @@
 # Diagrams
 Architecture diagrams for the project will live here (PNG/SVG).
-# Diagrams
+
 
 This folder contains exports of the architecture diagram used in this project.
 
